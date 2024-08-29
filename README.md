@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @agnes-gramser
-- 👀 I’m interested in AI and Cyber Security.
+- 👀 I’m interested in Software Engineering, AI and Cyber Security.
 - 🌱 I’m currently studying B. Computer Science / B. Commerce @ UNSW.
