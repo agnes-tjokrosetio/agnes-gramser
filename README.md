@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @agnes-gramser
-- 👀 I’m interested in Software Engineering, AI and Cyber Security.
+- 👋 Hi, I’m @agnes-tjokrosetio
+- 👀 I’m interested in Software Engineering, Software Product Development and Front-End Developing and Engineering.
 - 🌱 I’m currently studying B. Computer Science / B. Commerce @ UNSW.
